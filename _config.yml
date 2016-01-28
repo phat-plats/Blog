@@ -3,7 +3,7 @@ title: The Phat Plats
 description: >
   The Phat Plats team offical SWEN 444 project blog.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/Blog/" # the subpath of your site, e.g. /blog/
 url: "http://phat-plats.github.io" # the base hostname & protocol for your site
 
 author:
