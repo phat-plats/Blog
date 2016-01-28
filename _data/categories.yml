@@ -1,8 +1,14 @@
-- slug: design
-  name: Design
+- slug: gareth
+  name: Gareth Daunton
 
-- slug: tools
-  name: Tools
+- slug: adam
+  name: Adam McCarthy
 
-- slug: productivity
-  name: Productivity
+- slug: ben
+  name: Ben Meyers
+
+- slug: chris
+  name: Chris Jones
+
+- slug: kyle
+  name: Kyle Skonieczny
