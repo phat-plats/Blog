@@ -72,6 +72,11 @@ strong {
     overflow: hidden;
 }
 
+.head {
+  display: inline-flex;
+  align-items: center;
+}
+
 .navigation {
     float:left;
 }
@@ -81,6 +86,11 @@ strong {
     font-weight: 700;
     color: $iron;
     display: block;
+}
+
+.plat {
+  margin: 0 15px;
+  height: 150px;
 }
 
 .menu {
@@ -254,6 +264,15 @@ strong {
 
     .wrapper {
         width: 80%;
+    }
+
+    .head {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .plat {
+      margin-bottom: 15px;
     }
 
     .navigation,
