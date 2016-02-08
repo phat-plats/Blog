@@ -1,10 +1,10 @@
-+---
-+layout: post
-+title:  "Week 1 Status"
-+subtitle: "Project Startup"
-+date:   2016-02-07 23:45:00
-+categories: [adam]
-+---
+---
+layout: post
+title:  "Week 1 Status"
+subtitle: "Project Startup"
+date:   2016-02-07 23:45:00
+categories: [adam]
+---
 
 ## Brainstorming
 This week, our team as a whole spent about 2 hours brainstorming project
