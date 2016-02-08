@@ -9,16 +9,16 @@
 ## Brainstorming
 This week, our team as a whole spent about 2 hours brainstorming project
 ideas and writing them down. Some of the ideas we came up with included
-a barcode scanning application that shows environmental information, a 
-QR-code scanning app for hard-of-hearing customers to order items at a 
+a barcode scanning application that shows environmental information, a
+QR-code scanning app for hard-of-hearing customers to order items at a
 restaurant, and a formula helper app to help students remember math and
 science formulas.
 
 ## Project Startup
-We decided as a team to build the barcode scanning app for finding 
+We decided as a team to build the barcode scanning app for finding
 environmental information. We envision that users will use the application
-to share information about the environmental effects of products, such 
-as whether or not they’re recyclable, or whether they contain harmful 
+to share information about the environmental effects of products, such
+as whether or not they're recyclable, or whether they contain harmful
 pollutants.
 
 ## Blog setup
