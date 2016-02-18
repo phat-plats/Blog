@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1 Status"
+title:  "Week 2 Status"
 subtitle: "Project Startup"
 date:   2016-02-07 23:45:00
 categories: [adam]

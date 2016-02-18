@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2 Status"
+title:  "Week 3 Status"
 subtitle: "WAADing around"
 date:   2016-02-14 21:30:00
 categories: [gareth]
