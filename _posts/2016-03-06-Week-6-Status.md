@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 6 Status"
 subtitle: "Conceptual & Intermediate Design"
-date:   2016-03-28 21:30:00
+date:   2016-03-03 21:30:00
 categories: [ben]
 ---
 
@@ -19,11 +19,16 @@ smartphone is an extension of her body; it is an indispensible tool for her
 daily life. She is environmentally conscious and wants to make sure she isn't
 making detrimental decisions.
 
+Adam worked on the initial persona on his own time, before we all worked together
+to solidify a final persona.
+
+
 ## Storyboard
+Using our final persona, we all worked on the following storyboard:
 1) Holly is at the grocery store while on a business trip in an unfamiliar state.
 2) She wants to buy a boxed item, but isn’t sure if the box is recyclable in her area.
 3) She opens the scanner app and scans the barcode. The app tells her it isn’t recyclable.
-4) Holly looks for a similar item and scans that barcode; the app tells her that item is recyclable
+4) Holly looks for a similar item and scans that barcode; the app tells her that item is recyclable.
 5) Holly picks the recyclable item and puts it in her cart.
 
 ## Wireframes
