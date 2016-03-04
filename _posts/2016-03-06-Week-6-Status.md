@@ -29,7 +29,7 @@ making detrimental decisions.
 ## Wireframes
 As a group we looked at each step in the storyboard individually and
 brainstormed possible wireframe models for the user interface. We settled on
-designs for ...
+designs for a variety of the screens for our application.
 
 # Future Plans
 Next week, we will use the wireframes that we have developed to plan out and
