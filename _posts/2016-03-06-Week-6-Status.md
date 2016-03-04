@@ -25,11 +25,12 @@ to solidify a final persona.
 
 ## Storyboard
 Using our final persona, we all worked on the following storyboard:
-1) Holly is at the grocery store while on a business trip in an unfamiliar state.
-2) She wants to buy a boxed item, but isn’t sure if the box is recyclable in her area.
-3) She opens the scanner app and scans the barcode. The app tells her it isn’t recyclable.
-4) Holly looks for a similar item and scans that barcode; the app tells her that item is recyclable.
-5) Holly picks the recyclable item and puts it in her cart.
+
+1. Holly is at the grocery store while on a business trip in an unfamiliar state.
+2. She wants to buy a boxed item, but isn’t sure if the box is recyclable in her area.
+3. She opens the scanner app and scans the barcode. The app tells her it isn’t recyclable.
+4. Holly looks for a similar item and scans that barcode; the app tells her that item is recyclable.
+5. Holly picks the recyclable item and puts it in her cart.
 
 ## Wireframes
 As a group we looked at each step in the storyboard individually and
