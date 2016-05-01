@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Week 11 Status"
+subtitle: "Programmed Prototype"
+date:   2016-04-17 22:30:00
+categories: [kyle]
+---
+
+# Project Status
+
+## Prototype 
+
+This week we implemented the prototype for our application. We have a working prototype that has most of our core features implemented such as product lookup, barcode scanning, and commenting on products. The user interface has also been improved after analysing the feedback we received a few weeks back.
+
+## Test Plan
+
+Along with our prototype we have constructed our test plan documentation using the provided template and our previous documentation to ensure consistency. On a related note to our test plan, we have successfully recruited our last user for testing.
